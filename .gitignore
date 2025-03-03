@@ -1,0 +1,84 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs-info/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+*.whl
+*.manifest
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# mypy cache
+.mypy_cache/
+
+# Coverage data
+.coverage
+coverage.xml
+
+# Translations
+*.mo
+*.pot
+
+# Log files and databases
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+*.db # Datenbankdateien
+
+# OS or Editor Folders
+.DS_Store
+Thumbs.db
+.idea/
+*.swp
+*.swo
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Model files
+*.pkl # Machine Learning Model Dateien
+*.h5
+
+# Large Data files
+data/ # Oder ein spezifischer Datenordner, z.B. datasets/
+
+# Secrets
+.env
+secrets.json
+*.key
