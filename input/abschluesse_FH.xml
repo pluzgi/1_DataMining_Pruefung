@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+>
+  <dcat:Dataset rdf:about="https://ckan.opendata.swiss/perma/32157797@bundesamt-fur-statistik-bfs">
+    <dct:description xml:lang="en">This dataset presents the annual figures for graduates of universities of applied sciences and universities of teacher education by institution, field of study, level of graduation and sex, since 2000. Descriptions of the variables in the CSV file are available in the Appendix.</dct:description>
+    <dct:language>fr</dct:language>
+    <dcat:keyword xml:lang="en">woman</dcat:keyword>
+    <dcat:keyword xml:lang="it">donna</dcat:keyword>
+    <dcat:keyword xml:lang="it">uomo</dcat:keyword>
+    <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+    <dct:description xml:lang="fr">Ce dataset présente les chiffres annuels des titres délivrés dans les hautes écoles spécialisées et pédagogiques selon la haute école, le domaine d'études, le niveau d'examen et le sexe, depuis 2000. Les descriptions des variables du fichier CSV sont disponibles dans l’annexe.</dct:description>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.opendata.swiss/dataset/626e5785-e28c-4ed9-a4a2-f54a67375417/resource/b2f2a87e-f6dc-49e5-adbc-6d626a693012">
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+        <dct:language>de</dct:language>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-27T06:30:00+00:00</dct:issued>
+        <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/ts-x-15.03.04.04_detail"/>
+        <dct:description xml:lang="de">Dieses Dataset präsentiert die jährlichen Zahlen der Abschlüsse der Fachhochschulen und pädagogischen Hochschulen nach Hochschule, Fachbereich, Examensstufe und Geschlecht, seit 2000. Die Beschreibungen der Variablen in der CSV-Datei sind im Anhang verfügbar.</dct:description>
+        <dct:license rdf:resource="http://dcat-ap.ch/vocabulary/licenses/terms_by_ask"/>
+        <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+        <dct:rights rdf:resource="http://dcat-ap.ch/vocabulary/licenses/terms_by_ask"/>
+        <dct:identifier>32157800-de@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:title xml:lang="de">Abschlüsse der Fachhochschulen und pädagogischen Hochschulen nach Jahr, Hochschule, Fachbereich, Examensstufe und Geschlecht</dct:title>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:keyword xml:lang="fr">femme</dcat:keyword>
+    <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/ts-x-15.03.04.04_detail"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.opendata.swiss/dataset/626e5785-e28c-4ed9-a4a2-f54a67375417/resource/eb6422b1-e9ee-4dc4-a61a-1d004ad0bebc">
+        <dct:language>fr</dct:language>
+        <dct:title xml:lang="fr">Titres délivrés dans les hautes écoles spécialisées et pédagogiques selon l'année, la haute école, le domaine d'études, le niveau d'examen et le sexe</dct:title>
+        <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+        <dct:license rdf:resource="http://dcat-ap.ch/vocabulary/licenses/terms_by_ask"/>
+        <dct:rights rdf:resource="http://dcat-ap.ch/vocabulary/licenses/terms_by_ask"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+        <dct:identifier>32157800-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/ts-x-15.03.04.04_detail"/>
+        <dct:description xml:lang="fr">Ce dataset présente les chiffres annuels des titres délivrés dans les hautes écoles spécialisées et pédagogiques selon la haute école, le domaine d'études, le niveau d'examen et le sexe, depuis 2000. Les descriptions des variables du fichier CSV sont disponibles dans l’annexe.</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-27T06:30:00+00:00</dct:issued>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dct:publisher>
+      <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+        <foaf:name>BFS/OFS</foaf:name>
+      </foaf:Organization>
+    </dct:publisher>
+    <dct:description xml:lang="de">Dieses Dataset präsentiert die jährlichen Zahlen der Abschlüsse der Fachhochschulen und pädagogischen Hochschulen nach Hochschule, Fachbereich, Examensstufe und Geschlecht, seit 2000. Die Beschreibungen der Variablen in der CSV-Datei sind im Anhang verfügbar.</dct:description>
+    <dct:language>it</dct:language>
+    <dcat:keyword xml:lang="de">frau</dcat:keyword>
+    <dct:title xml:lang="de">Abschlüsse der Fachhochschulen und pädagogischen Hochschulen nach Jahr, Hochschule, Fachbereich, Examensstufe und Geschlecht</dct:title>
+    <dct:description xml:lang="it">Questo dataset presenta le cifre annuali dei titoli rilasciati nelle scuole universitarie professionali e nelle alte scuole pedagogiche secondo la scuola universitaria, il settore di studio, il livello dell'esame e il sesso, dal 2000. Per le descrizioni delle variabili del file CSV si rimanda all’allegato.</dct:description>
+    <dcat:keyword xml:lang="de">geschlecht</dcat:keyword>
+    <dcat:contactPoint>
+      <vcard:Organization rdf:nodeID="Nf92f4053d73e41fb998057b8bcb8e59a">
+        <vcard:fn>info@bfs.admin.ch</vcard:fn>
+        <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dct:relation>
+      <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+        <rdfs:label>legal_basis</rdfs:label>
+      </rdf:Description>
+    </dct:relation>
+    <dcat:keyword xml:lang="de">mann</dcat:keyword>
+    <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
+    <dct:language>en</dct:language>
+    <dct:temporal>
+      <dct:PeriodOfTime rdf:nodeID="N5703ebb6bf67464182d797b2483b90a3">
+        <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2000-01-01T00:00:00</dcat:startDate>
+        <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-12-31T23:59:59.999999</dcat:endDate>
+      </dct:PeriodOfTime>
+    </dct:temporal>
+    <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.opendata.swiss/dataset/626e5785-e28c-4ed9-a4a2-f54a67375417/resource/e6b1fae0-7374-41f8-b46e-e9f1c148681c">
+        <dct:title xml:lang="fr">Titres délivrés dans les hautes écoles spécialisées et pédagogiques selon l'année, la haute école, le domaine d'études, le niveau d'examen et le sexe</dct:title>
+        <dct:title xml:lang="it">Titoli rilasciati nelle scuole universitarie professonali e nelle alte scuole pedagogiche per anno, scuola universitaria, settore di studio, livello dell'esame e sesso</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-27T07:53:43.637000+00:00</dct:modified>
+        <dct:license rdf:resource="http://dcat-ap.ch/vocabulary/licenses/terms_by_ask"/>
+        <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/text/csv"/>
+        <dcat:accessURL rdf:resource="https://dam-api.bfs.admin.ch/hub/api/dam/assets/32157800/master"/>
+        <dct:language>it</dct:language>
+        <dct:language>de</dct:language>
+        <dct:rights rdf:resource="http://dcat-ap.ch/vocabulary/licenses/terms_by_ask"/>
+        <dct:description xml:lang="it">Questo dataset presenta le cifre annuali dei titoli rilasciati nelle scuole universitarie professionali e nelle alte scuole pedagogiche secondo la scuola universitaria, il settore di studio, il livello dell'esame e il sesso, dal 2000. Per le descrizioni delle variabili del file CSV si rimanda all’allegato.</dct:description>
+        <dct:identifier>32157800-master@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-27T06:30:00+00:00</dct:issued>
+        <dcat:downloadURL rdf:resource="https://dam-api.bfs.admin.ch/hub/api/dam/assets/32157800/master"/>
+        <dct:description xml:lang="fr">Ce dataset présente les chiffres annuels des titres délivrés dans les hautes écoles spécialisées et pédagogiques selon la haute école, le domaine d'études, le niveau d'examen et le sexe, depuis 2000. Les descriptions des variables du fichier CSV sont disponibles dans l’annexe.</dct:description>
+        <dct:language>en</dct:language>
+        <dct:title xml:lang="de">Abschlüsse der Fachhochschulen und pädagogischen Hochschulen nach Jahr, Hochschule, Fachbereich, Examensstufe und Geschlecht</dct:title>
+        <dct:title xml:lang="en">Graduates of universities of applied sciences and universities of teacher education by year, institution, field of study, level of graduation and sex</dct:title>
+        <dct:language>fr</dct:language>
+        <dct:description xml:lang="en">This dataset presents the annual figures for graduates of universities of applied sciences and universities of teacher education by institution, field of study, level of graduation and sex, since 2000. Descriptions of the variables in the CSV file are available in the Appendix.</dct:description>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+        <dct:description xml:lang="de">Dieses Dataset präsentiert die jährlichen Zahlen der Abschlüsse der Fachhochschulen und pädagogischen Hochschulen nach Hochschule, Fachbereich, Examensstufe und Geschlecht, seit 2000. Die Beschreibungen der Variablen in der CSV-Datei sind im Anhang verfügbar.</dct:description>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dct:language>de</dct:language>
+    <dcat:keyword xml:lang="fr">homme</dcat:keyword>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.opendata.swiss/dataset/626e5785-e28c-4ed9-a4a2-f54a67375417/resource/947b5274-8d89-40d0-bb1f-752660b774fe">
+        <dcat:accessURL rdf:resource="https://dam-api.bfs.admin.ch/hub/api/dam/assets/32157800/appendix"/>
+        <dct:title xml:lang="fr">Titres délivrés dans les hautes écoles spécialisées et pédagogiques selon l'année, la haute école, le domaine d'études, le niveau d'examen et le sexe</dct:title>
+        <dct:title xml:lang="it">Titoli rilasciati nelle scuole universitarie professonali e nelle alte scuole pedagogiche per anno, scuola universitaria, settore di studio, livello dell'esame e sesso</dct:title>
+        <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.spreadsheet"/>
+        <dct:title xml:lang="en">Graduates of universities of applied sciences and universities of teacher education by year, institution, field of study, level of graduation and sex</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-27T07:53:43.336000+00:00</dct:modified>
+        <dct:language>it</dct:language>
+        <dct:language>de</dct:language>
+        <dct:rights rdf:resource="http://dcat-ap.ch/vocabulary/licenses/terms_by_ask"/>
+        <dct:description xml:lang="it">Questo dataset presenta le cifre annuali dei titoli rilasciati nelle scuole universitarie professionali e nelle alte scuole pedagogiche secondo la scuola universitaria, il settore di studio, il livello dell'esame e il sesso, dal 2000. Per le descrizioni delle variabili del file CSV si rimanda all’allegato.</dct:description>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ODS"/>
+        <dcat:downloadURL rdf:resource="https://dam-api.bfs.admin.ch/hub/api/dam/assets/32157800/appendix"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-27T06:30:00+00:00</dct:issued>
+        <dct:description xml:lang="fr">Ce dataset présente les chiffres annuels des titres délivrés dans les hautes écoles spécialisées et pédagogiques selon la haute école, le domaine d'études, le niveau d'examen et le sexe, depuis 2000. Les descriptions des variables du fichier CSV sont disponibles dans l’annexe.</dct:description>
+        <dct:language>en</dct:language>
+        <dct:title xml:lang="de">Abschlüsse der Fachhochschulen und pädagogischen Hochschulen nach Jahr, Hochschule, Fachbereich, Examensstufe und Geschlecht</dct:title>
+        <dct:license rdf:resource="http://dcat-ap.ch/vocabulary/licenses/terms_by_ask"/>
+        <dct:language>fr</dct:language>
+        <dct:description xml:lang="en">This dataset presents the annual figures for graduates of universities of applied sciences and universities of teacher education by institution, field of study, level of graduation and sex, since 2000. Descriptions of the variables in the CSV file are available in the Appendix.</dct:description>
+        <dct:identifier>32157800-appendix@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:description xml:lang="de">Dieses Dataset präsentiert die jährlichen Zahlen der Abschlüsse der Fachhochschulen und pädagogischen Hochschulen nach Hochschule, Fachbereich, Examensstufe und Geschlecht, seit 2000. Die Beschreibungen der Variablen in der CSV-Datei sind im Anhang verfügbar.</dct:description>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+    <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+    <dcat:keyword xml:lang="fr">genre</dcat:keyword>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.opendata.swiss/dataset/626e5785-e28c-4ed9-a4a2-f54a67375417/resource/43523d9a-0d4e-4265-8864-4bdc6d3d53c9">
+        <dct:title xml:lang="en">Graduates of universities of applied sciences and universities of teacher education by year, institution, field of study, level of graduation and sex</dct:title>
+        <dct:rights rdf:resource="http://dcat-ap.ch/vocabulary/licenses/terms_by_ask"/>
+        <dct:identifier>32157800-en@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:language>en</dct:language>
+        <dct:license rdf:resource="http://dcat-ap.ch/vocabulary/licenses/terms_by_ask"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-27T06:30:00+00:00</dct:issued>
+        <dct:description xml:lang="en">This dataset presents the annual figures for graduates of universities of applied sciences and universities of teacher education by institution, field of study, level of graduation and sex, since 2000. Descriptions of the variables in the CSV file are available in the Appendix.</dct:description>
+        <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/en/ts-x-15.03.04.04_detail"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+        <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://ckan.opendata.swiss/dataset/626e5785-e28c-4ed9-a4a2-f54a67375417/resource/3d533f34-68cc-4f16-903f-65d00d5d9d15">
+        <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+        <dct:language>it</dct:language>
+        <dct:description xml:lang="it">Questo dataset presenta le cifre annuali dei titoli rilasciati nelle scuole universitarie professionali e nelle alte scuole pedagogiche secondo la scuola universitaria, il settore di studio, il livello dell'esame e il sesso, dal 2000. Per le descrizioni delle variabili del file CSV si rimanda all’allegato.</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-27T06:30:00+00:00</dct:issued>
+        <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/it/ts-x-15.03.04.04_detail"/>
+        <dct:rights rdf:resource="http://dcat-ap.ch/vocabulary/licenses/terms_by_ask"/>
+        <dct:license rdf:resource="http://dcat-ap.ch/vocabulary/licenses/terms_by_ask"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+        <dct:title xml:lang="it">Titoli rilasciati nelle scuole universitarie professonali e nelle alte scuole pedagogiche per anno, scuola universitaria, settore di studio, livello dell'esame e sesso</dct:title>
+        <dct:identifier>32157800-it@bundesamt-fur-statistik-bfs</dct:identifier>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dct:spatial>Schweiz</dct:spatial>
+    <dcat:keyword xml:lang="it">genere</dcat:keyword>
+    <dcat:keyword xml:lang="en">man</dcat:keyword>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-27T06:30:00+00:00</dct:issued>
+    <dcat:keyword xml:lang="en">gender</dcat:keyword>
+    <dct:title xml:lang="it">Titoli rilasciati nelle scuole universitarie professonali e nelle alte scuole pedagogiche per anno, scuola universitaria, settore di studio, livello dell'esame e sesso</dct:title>
+    <dct:identifier>32157797@bundesamt-fur-statistik-bfs</dct:identifier>
+    <dct:title xml:lang="fr">Titres délivrés dans les hautes écoles spécialisées et pédagogiques selon l'année, la haute école, le domaine d'études, le niveau d'examen et le sexe</dct:title>
+    <dct:title xml:lang="en">Graduates of universities of applied sciences and universities of teacher education by year, institution, field of study, level of graduation and sex</dct:title>
+  </dcat:Dataset>
+  <dct:LicenseDocument rdf:about="http://dcat-ap.ch/vocabulary/licenses/terms_by_ask">
+    <rdf:type rdf:resource="http://purl.org/dc/terms/RightsStatement"/>
+  </dct:LicenseDocument>
+</rdf:RDF>
